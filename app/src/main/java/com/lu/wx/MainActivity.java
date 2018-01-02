@@ -241,7 +241,7 @@ public class MainActivity extends BaseSettingsActivity {
 
             @Override
             public boolean onLongClick(View v) {
-                File output = new File(android.os.Environment.getExternalStorageDirectory(), "codeboy_wechatpay_qr.jpg");
+                File output = new File(android.os.Environment.getExternalStorageDirectory(), "wechatpay.jpg");
                 if(!output.exists()) {
                     Bitmap bitmap = BitmapFactory.decodeResource(getResources(), R.drawable.wechatpay);
                     BitmapUtils.saveBitmap(MainActivity.this, output, bitmap);
