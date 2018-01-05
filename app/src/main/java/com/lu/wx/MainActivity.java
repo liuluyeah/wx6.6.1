@@ -32,8 +32,8 @@ import com.lu.wx.util.BitmapUtils;
 import java.io.File;
 
 /**
- * <p>Created by LeonLee on 15/2/17 下午10:11.</p>
- * <p><a href="mailto:codeboy2013@163.com">Email:codeboy2013@163.com</a></p>
+ *
+ *  <p>Reference codeboy's blog</p>
  *
  * 抢红包主界面
  */
