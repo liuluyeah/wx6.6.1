@@ -27,12 +27,12 @@ import com.lu.wx.util.NotifyHelper;
 
 import java.util.List;
 
+
 /**
- * <p>Created 16/1/16 上午12:40.</p>
- * <p><a href="mailto:codeboy2013@gmail.com">Email:codeboy2013@gmail.com</a></p>
- * <p><a href="http://www.happycodeboy.com">LeonLee Blog</a></p>
+ * <p>Created 17/1/3 下午13:16.</p>
+ * <p>Reference codeboy's blog/p>
  *
- * @author LeonLee
+ * @author Lu
  */
 public class WechatAccessbilityJob extends BaseAccessbilityJob {
 

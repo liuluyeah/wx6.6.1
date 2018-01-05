@@ -20,10 +20,10 @@ import java.util.Iterator;
 import java.util.List;
 
 /**
- * <p>Created by LeonLee on 15/2/17 下午10:25.</p>
- * <p><a href="mailto:codeboy2013@163.com">Email:codeboy2013@163.com</a></p>
+ * <p>Created 17/1/3 下午11:10.</p>
+ * <p>Reference codeboy's blog/p>
  *
- * 抢红包外挂服务
+ * @author Lu
  */
 public class QiangHongBaoService extends AccessibilityService {
 
